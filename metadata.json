@@ -1,0 +1,6 @@
+{
+  "name": "VisionCaption - Accessible Research & Evaluation Workbench",
+  "description": "Interactive multimodal vision-language captioning workbench comparing CNN-LSTM and BLIP transformer models with multilingual audio vocalization, attention heatmaps, and WCAG AAA accessibility exports.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
